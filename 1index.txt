@@ -1,0 +1,18 @@
+		Hem
+		Produkter
+		Kontakt
+Välkommen till Min Webbplats
+Här är en kort introduktion.
+Våra Produkter
+
+Produkt 1
+
+Produkt 2
+Kontakta Oss
+Namn:
+
+E-post:
+
+Meddelande:
+Skicka
+© 2024 Min Webbplats
